@@ -10,6 +10,8 @@ This Python script reads a YAML file containing a folder structure and creates t
 ```bash
 pip install pyyaml
 
+```
+
 ## Usage
 
 1. Create a YAML file (`folder_structure.yaml`) specifying the desired folder structure.
