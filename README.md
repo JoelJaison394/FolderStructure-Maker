@@ -19,6 +19,7 @@ pip install pyyaml
 
    ```bash
    python create_folders.py
+   ```
 
 ## YAML File Format
 
@@ -38,6 +39,7 @@ The YAML file should have a list of dictionaries, where each dictionary represen
     file2_2.txt: "content for file2_2"
 - filename: folder3
   content: {}
+```
 
 ## Features
 
